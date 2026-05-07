@@ -26,3 +26,11 @@ A servo-mounted distance sensor sweeps a room in precise arcs, streaming thousan
 
 ## Documentation
 Full technical write-up in `/Project Report`
+
+## Setup and Output:
+
+<img width="462" height="258" alt="image" src="https://github.com/user-attachments/assets/ff6ee4cf-288d-4b6c-8adc-4551fc9f7961" />
+
+<img width="544" height="380" alt="image" src="https://github.com/user-attachments/assets/9fb1ab92-c5fc-484f-90e1-6243168db99e" />
+
+
